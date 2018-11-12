@@ -46,7 +46,8 @@ ASSIGNMENT INFO
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
-The units of these measurements should be in Hertz.
+
+The acceleration signals were measured in standard gravity units 'g'. The angular velocity vector measured by the gyroscope were captured in radians/second.
 
 tBodyAcc-XYZ
 
